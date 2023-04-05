@@ -1,3 +1,83 @@
+*{
+  
+    font-family: Arial;
+}
+
 p{
-    color:brown
+    color: RED;
+    padding: 30px;
+}
+
+
+h1{
+    color:BLUE;
+    padding: 30px;
+}
+
+/* ID */
+#main-page {
+
+    color: black;
+    padding: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Class */
+.exemplo {
+
+    color: black;
+    background-color: #d2399f;
+    padding: 20px;
+    
+}
+
+.background-color-default {
+
+    background-color: #20e8e1;
+    padding: 20px;
+   
+}
+
+
+/* colors */
+.hexa {
+
+background-color: #29be47
+}
+
+.rgb {
+
+background-color: #155e22
+    }
+
+.color-name{
+
+background-color: #15e8de
+    
+}
+
+.sans-serif{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.serif{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Mono{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.big-test{
+    font-size: 60px;
+}
+
+.heavy-text {
+
+    font-weight: bold;
+}
+
+.italic-text{
+
+    font-style: italic;
 }
