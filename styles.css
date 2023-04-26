@@ -81,3 +81,34 @@ background-color: #15e8de
 
     font-style: italic;
 }
+
+.box-block{
+
+    display: block;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.Inlinebox{
+
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.BOXCONTAINER{
+
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+}
+
+.testeGrid{
+
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+
+}
+    
