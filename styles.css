@@ -101,7 +101,7 @@ background-color: #15e8de
 .BOXCONTAINER{
 
     display: grid;
-    grid-template-columns: repeat(2, 2fr);
+    grid-template-columns: repeat(3, 3fr);
 }
 
 .testeGrid{
@@ -109,6 +109,34 @@ background-color: #15e8de
     width: 100%;
     height: 100px;
     border: 1px solid black;
+    margin-inline: 30%;
+    vertical-align: middle;
 
 }
+
+.BOX-FLEX{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.testeBEXFLEX{
+
+    border: 1px solid black;
+}
+   
+.BOX-FLEXMODELO2{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.testeBEXFLEXMODE2{
+
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
     
+}
