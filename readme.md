@@ -2,4 +2,6 @@
 
 ## Codando em aula
 
-Teste para visualizar
+Foi abordado BOX deixar teste alinhados e Grids
+
+Teste para visualizargiy 
