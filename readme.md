@@ -2,6 +2,6 @@
 
 ## Codando em aula
 
-Foi abordado BOX deixar teste alinhados e Grids
+Foi abordado BOX deixar texto fit alinhados e Grids
 
 Teste para visualizargiy 
